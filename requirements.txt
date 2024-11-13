@@ -3,3 +3,5 @@ flask
 numpy
 scikit-learn
 scikit-image
+pandas
+
